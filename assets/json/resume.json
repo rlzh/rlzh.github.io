@@ -145,35 +145,35 @@
     {
       "name": "Beyond the Classroom: Bridging the Gap Between Academia and Industry with a Hands-on Learning Approach",
       "publisher": "IEEE",
-      "releaseDate": "2025-04-27",
+      "releaseDate": "2025-04",
       "url": "https://conf.researchr.org/home/icse-2025/cseet-2025#",
       "summary": "Presented experience teaching a course on self-adaptive software systems that integrates theoretical knowledge and hands-on learning with industry-relevant technologies."
     },
     {
       "name": "Using Semeru Cloud Compiler to Enhance Cloud-Native Java Application Performance",
       "publisher": "IEEE",
-      "releaseDate": "2024-11-11",
+      "releaseDate": "2024-11",
       "url": "https://ieeexplore.ieee.org/document/10838216",
       "summary": "Proposed methods to extend the Semeru Cloud Compiler (SCC) to reduce the CPU and memory overhead of JIT compilation in containerized Java applications, and presented empirical evaluation results."
     },
     {
       "name": "Using POMDP-based Approach to Address Uncertainty-Aware Adaptation for Self-Protecting Software",
       "publisher": "Arxiv",
-      "releaseDate": "2023-08-23",
+      "releaseDate": "2023-08",
       "url": "https://arxiv.org/abs/2308.02134",
       "summary": "Modeled state uncertainty and model parameter uncertainty within a data-driven Moving Target Defense deployment process using Reinforcement Learning and Bayesian Machine Learning techniques."
     },
     {
       "name": "FlaKat: A Machine Learning-Based Categorization Framework for Flaky Tests",
       "publisher": "Arxiv",
-      "releaseDate": "2024-03-01",
+      "releaseDate": "2024-03",
       "url": "https://arxiv.org/abs/2403.01003",
       "summary": "Developed ML-based pipelines for fast and accurate flaky testing categorization of Java unit tests using Python and scikit-learn, which can be integrated into CI/CD workflows."
     },
     {
       "name": "AHA: Adaptive Hadoop in Ad-hoc Cloud Environments",
       "publisher": "IEEE",
-      "releaseDate": "2021-09-27",
+      "releaseDate": "2021-09",
       "url": "https://ieeexplore.ieee.org/document/9659512",
       "summary": "Designed data-driven Resource-aware Task Scheduler (using Java) for running distributed computing within ad-hoc cloud environments; improved performance by up to 20.2%."
     }
