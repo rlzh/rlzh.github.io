@@ -31,4 +31,6 @@ Hi there, I'm Ryan, a software engineer and researcher with a passion for buildi
 
 In recent years, I have contributed to cutting-edge projects at IBM’s Centre for Advanced Studies, where I pioneered Java performance improvements in cloud environments. Nonetheless, my expertise spans full-stack development, game development, and AI-driven systems, with a knack for turning theoretical concepts into practical tools.
 
-Beyond technical execution, I thrive on collaboration and mentorship. In the past, I have developed hands-on labs for award-winning courses, led Agile teams to deliver impactful products, and mentored peers to elevate collective problem-solving. When I am not coding or doing research, you can find me hiking, reading, playing board games, hitting the slopes, or playing/watching hockey.
+Beyond technical execution, I thrive on collaboration and mentorship. In the past, I have developed hands-on labs for award-winning courses, led Agile teams to deliver impactful products, and mentored peers to elevate collective problem-solving. 
+
+When I am not coding or doing research, you can find me hiking, reading, playing board games, hitting the slopes, or playing/watching hockey.
