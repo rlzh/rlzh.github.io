@@ -29,7 +29,7 @@
       "url": "https://casweb.ef52d293.public.multi-containers.ibm.com/ibm/cas/canada/research/1166",
       "startDate": "2020-01",
       "endDate": "Present",
-      "summary": "Contributed to IBM-funded research projects focused on improving enterprise Java application performance in cloud computing environments using JITServer remote compilation technology.",
+      "summary": "Contributed to IBM-funded, open-source research projects focused on improving enterprise Java application performance in cloud computing environments using JITServer remote compilation technology.",
       "highlights": [
         "Spearheaded project to improve microservice web application startup time by 10% via reducing Java container image size (by up to 50%) automatically using Python scripts.",
         "Analyzed benchmark applications (Spring and OpenLiberty) using Bash, C++, and Python to identify up to 18% of JIT compilations can be further optimized to improve Java application performance in Eclipse OpenJ9 JVM.",
@@ -46,7 +46,7 @@
       "endDate": "2019-09",
       "summary": "Led sprint planning, product documentation, database design, and overall system design for backend development of a mobile rewards platform for merchants in Metro Vancouver region.",
       "highlights": [
-        "Utilized AWS cloud computing services to deploy and operate Python-based (Django) backend with RESTful API to facilitate CRUD operations in PostgreSQL DB.",
+        "Utilized AWS cloud computing services (EC2 and S3) to deploy and operate Python-based (Django) backend with RESTful API to facilitate CRUD operations in PostgreSQL DB.",
         "Gathered stakeholder requirements and designed auto-expiring QR codes to improve reward collection process; improved checkout efficiency by 25%.",
         "Incorporated third-party features to improve user engagement by 20%; including social media platform integration using Facebook and Google APIs and push notifications using Firebase.",
         "Integrated Postman for testing and Swagger for documenting APIs, improving developer onboarding and usability.",
