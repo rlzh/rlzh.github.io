@@ -24,21 +24,6 @@
   },
   "work": [
     {
-      "name": "IBM Centre for Advanced Studies - Markham, ON, Canada",
-      "position": "Research Collaborator",
-      "url": "https://casweb.ef52d293.public.multi-containers.ibm.com/ibm/cas/canada/research/1166",
-      "startDate": "2020-01",
-      "endDate": "Present",
-      "summary": "Contributed to IBM-funded, open-source research projects focused on improving enterprise Java application performance in cloud computing environments using JITServer remote compilation technology.",
-      "highlights": [
-        "Spearheaded project to improve microservice web application startup time by 10% via reducing Java container image size (by up to 50%) automatically using Python scripts.",
-        "Analyzed benchmark applications (Spring and OpenLiberty) using Bash, C++, and Python to identify up to 18% of JIT compilations can be further optimized to improve Java application performance in Eclipse OpenJ9 JVM.",
-        "Led development of a visualization tool to aid understanding of Java compilation and optimization behaviour for developers; used JavaScript (vis.js), HTML, CSS (Bootstrap).",
-        "Published international conference papers; received the best paper award at CASCON 2024 as main author.",
-        "Developed hands-on labs and documentation for an award-winning course on self-adaptive software, with practical exercises using OpenLiberty, MongoDB, Docker, Kubernetes, Prometheus, GCP, and IBM Cloud Observability."
-      ]
-    },
-    {
       "name": "Stamplus Rewards - Richmond, BC, Canada",
       "position": "Software Engineer",
       "url": "",
@@ -63,6 +48,30 @@
       "highlights": [
         "Collaborated cross-functionally with UI/UX designers to build custom, internal development tools using C# (Unity) for Marvel: Dimension of Heroes; improved UI/UX-related development speed by 50%.",
         "Converted existing codebase of non-VR/non-AR games into VR/AR compatible versions published on various platforms, titles include Waddle Home, Darknet, and Slots in De Nile."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "An Adaptive Heuristic-Based Framework to Enhance JITServer Technology",
+      "url": "https://casweb.ef52d293.public.multi-containers.ibm.com/ibm/cas/canada/research/1166",
+      "startDate": "2022-01",
+      "endDate": "Present",
+      "summary": "Contributed to IBM-funded, open-source research projects focused on improving enterprise Java application performance in cloud computing environments using JITServer remote compilation technology.",
+      "highlights": [
+        "Spearheaded project to improve microservice web application startup time by 10% via reducing Java container image size (by up to 50%) automatically using Python scripts.",
+        "Analyzed benchmark applications (Spring and OpenLiberty) using Bash, C++, and Python to identify up to 18% of JIT compilations can be further optimized to improve Java application performance in Eclipse OpenJ9 JVM.",
+        "Led development of a visualization tool to aid understanding of Java compilation and optimization behaviour for developers; used JavaScript (vis.js), HTML, CSS (Bootstrap).",
+        "Published international conference papers; received the best paper award at CASCON 2024 as main author."
+      ]
+    },
+    {
+      "name": "Developing a Graduate Course using Eclipse Open J9 and OpenShift",
+      "url": "https://casweb.ef52d293.public.multi-containers.ibm.com/ibm/cas/canada/research/1061",
+      "startDate": "2020-01",
+      "endDate": "Present",
+      "summary": "Developed hands-on labs and documentation for an award-winning course on self-adaptive software, with practical exercises using OpenLiberty, MongoDB, Docker, Kubernetes, Prometheus, GCP, and IBM Cloud Observability.",
+      "highlights": [
       ]
     }
   ],
@@ -224,7 +233,5 @@
     }
   ],
   "references": [
-  ],
-  "projects": [
   ]
 }
